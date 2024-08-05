@@ -1,0 +1,43 @@
+_repo: Pieni-hanhipaimen-Yrjo_74053
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hirvonen, Simeon
+    aliases:
+    - Hirvonen, Simo
+    - Hirvonen, S.
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '32420'
+    url: http://www.gutenberg.org/2009/agents/32420
+creator:
+  editor:
+    agent_name: Palmqvist, Per
+    birthdate: 1815
+    deathdate: 1887
+    gutenberg_agent_id: '57322'
+    url: http://www.gutenberg.org/2009/agents/57322
+    wikipedia: https://en.wikipedia.org/wiki/Per_Palmqvist
+description: ''
+gutenberg_issued: '2024-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74053'
+language: fi
+pgterms:marc905: 20240713043806palmqvist
+pgterms:marc906: '1884'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aTampere :$bHagelberg ja Kumpp., $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Pieni hanhipaimen Yrjö
+url: http://www.gutenberg.org/ebooks/74053
