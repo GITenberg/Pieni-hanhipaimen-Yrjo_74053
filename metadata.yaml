@@ -10,6 +10,9 @@ contributor:
     deathdate: 1915
     gutenberg_agent_id: '32420'
     url: http://www.gutenberg.org/2009/agents/32420
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Palmqvist, Per
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57322
     wikipedia: https://en.wikipedia.org/wiki/Per_Palmqvist
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74053#Pieni-hanhipaimen-Yrjo
 gutenberg_issued: '2024-07-15'
 gutenberg_type: Text
 identifiers:
